@@ -30,9 +30,9 @@ In the last part of the talk, I will show how bias in NLP models can be addresse
 
 ### Speaker: Dr.-Ing. Heiko Koziolek, Corporate Research Fellow, ABB Corporate Research, Germany 
 
-![Heiko Koziolek](/assets/images/keynotes/heiko_koziolek.jpg){: .align-center}
+![Heiko Koziolek](https://sa-ml.github.io/saml2024/assets/images/keynotes/heiko_koziolek.jpg){: .align-center}
 
-
+heiko_koziolek.jpg
 #### Abstract
 Generative AI now aids many software developers in programming tasks, often providing a significant productivity boost. 
 In the manufacturing domain, control logic code is designed and implemented for industrial automation applications that manage power plants, petrochemical processes, or steel production. 
