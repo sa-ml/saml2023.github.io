@@ -28,22 +28,29 @@ The workshop program will include paper presentations, a panel with with partici
 | Main Conference | December 8, 9, 10, 2023 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
 | Social Event | December 9, 2023 <br> Buffet Dinner from 7 – 9 at the Conference Center <br> Universal Studio Singapore 20:00 – 23:45 <br> Admission ticket to both included with Full Conference Registration
 {: .news-table}
+-->
 
-
-## Wednesday, Dec 6th
+ Tuesday, June 4 2024
 
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
-| 09:00 | 10:30 | Tutorial Session & Workshop Session |
-| 10:30 | 11:00 | Break Located in Ballroom Foyer     |
-| 11:00 | 12:30 | Tutorial Session & Workshop Session |
-| 12:30 | 14:00 | Lunch Time on own                   |
-| 14:00 | 15:30 | Tutorial Session & Workshop Session |
-| 15:30 | 16:00 | Break Located in Ballroom Foyer     |
-| 16:00 | 17:30 | Tutorial Session & Workshop Session |
-{: .notes}
+| 09:30 | 09:45 | Welcome and Intro from the SAML OC |
+| 09:45 | 11:00 | Keynote by Heiko Koziolek on **Software Architecture Challenges for LLM-based Control Code Generation** |
+| 11:00 | 11:30 | Coffee Break |                 |
+| 11:30 | 11:55 | Session 1: Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: Using Metrics for Code Smells of ML Pipelines |
+| 11:55 | 12:20 | Session 1: Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: Feature Model Based Integration of Machine Learning in Software Product Lines |
+| 12:20 | 12:40 |Session 1: Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: Architecting Machine Learning Systems: Which Parts are the Architect’s Pain? |
+| 12:40 | 13:00 | Session 1: Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: Using Quality Attribute Scenarios for ML Model Test Case Generation |
+| 13:00 | 14:00 | Lunch |
+| 14:00 | 14:25 |  Jasmin Jahic and Ashkan Sami: State of Practice: LLMs in Software Engineering and Software Architecture |
+| 14:25 | 14:55 | Invited Talk: Ipek Ozkaya on Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning) |
+| 14:55 | 15:30 | Most pressing challenges in SA4ML and ML4SA and research ideas to start addressing them |
+| 15:30 | 16:00 | Coffee Break |
+| 16:00 | 17:00 | Industry Academia Panel Discussion |
+| 17:00 | 17:30 | Closing Thoughts from SAML OC |
 
 
+<!--
 * **Registration: Central Foyer**
 * Please refer to [Workshops](/program/workshops/) and [Tutorials](/program/tutorials) for details 
 {: .notes}
