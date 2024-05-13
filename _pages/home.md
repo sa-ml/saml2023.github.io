@@ -20,6 +20,7 @@ SAML 2024 will be co-located with the 21st IEEE International Conference on Soft
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-05-10 | SAML 2024 program is up, do check out [here](https://sa-ml.github.io/saml2024/program/)
 | 2024-03-20 | Registration site is up. Do [register here](https://conf.researchr.org/attending/icsa-2024/registration)
 | 2024-03-20 | The list of accepted papers is ready and an exciting program coming soon!
 | 2024-02-19 | 	We have extended the submission deadline until **February 25, AoE**.

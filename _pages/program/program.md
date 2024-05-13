@@ -1,5 +1,5 @@
 ---
-title: Workshop Overview
+title: Workshop Program
 layout: single
 permalink: /program/
 toc: false
