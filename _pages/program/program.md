@@ -17,7 +17,7 @@ sidebar:
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
-The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon.
+<!--The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon. -->
 
 <!--
 
@@ -30,20 +30,20 @@ The workshop program will include paper presentations, a panel with with partici
 {: .news-table}
 -->
 
- Tuesday, June 4 2024
+ **Tuesday, June 4 2024**
 
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
 | 09:30 | 09:45 | Welcome and Intro from the SAML OC |
 | 09:45 | 11:00 | Keynote by Heiko Koziolek on **Software Architecture Challenges for LLM-based Control Code Generation** |
 | 11:00 | 11:30 | Coffee Break |                 |
-| 11:30 | 11:55 | Session 1: Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: Using Metrics for Code Smells of ML Pipelines |
-| 11:55 | 12:20 | Session 1: Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: Feature Model Based Integration of Machine Learning in Software Product Lines |
-| 12:20 | 12:40 |Session 1: Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: Architecting Machine Learning Systems: Which Parts are the Architect’s Pain? |
-| 12:40 | 13:00 | Session 1: Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: Using Quality Attribute Scenarios for ML Model Test Case Generation |
+| 11:30 | 11:55 | Session 1: Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines** |
+| 11:55 | 12:20 | Session 1: Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines** |
+| 12:20 | 12:40 |Session 1: Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: **Architecting Machine Learning Systems: Which Parts are the Architect’s Pain?** |
+| 12:40 | 13:00 | Session 1: Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: **Using Quality Attribute Scenarios for ML Model Test Case Generation** |
 | 13:00 | 14:00 | Lunch |
-| 14:00 | 14:25 |  Jasmin Jahic and Ashkan Sami: State of Practice: LLMs in Software Engineering and Software Architecture |
-| 14:25 | 14:55 | Invited Talk: Ipek Ozkaya on Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning) |
+| 14:00 | 14:25 |  Jasmin Jahic and Ashkan Sami: **State of Practice: LLMs in Software Engineering and Software Architecture** |
+| 14:25 | 14:55 | Invited Talk: Ipek Ozkaya on **Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning)** |
 | 14:55 | 15:30 | Most pressing challenges in SA4ML and ML4SA and research ideas to start addressing them |
 | 15:30 | 16:00 | Coffee Break |
 | 16:00 | 17:00 | Industry Academia Panel Discussion |
