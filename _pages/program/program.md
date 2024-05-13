@@ -35,7 +35,7 @@ sidebar:
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
 | 09:30 | 09:45 | Welcome and Intro from the SAML OC |
-| 09:45 | 11:00 | Keynote by Heiko Koziolek on [**Software Architecture Challenges for LLM-based Control Code Generation**](saml2024/program/keynotes) |
+| 09:45 | 11:00 | Keynote by Heiko Koziolek on [**Software Architecture Challenges for LLM-based Control Code Generation**](https://sa-ml.github.io/saml2024/program/keynotes/) |
 | 11:00 | 11:30 | Coffee Break |                 |
 | 11:30 | 11:55 | Session 1: Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines** |
 | 11:55 | 12:20 | Session 1: Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines** |
