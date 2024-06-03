@@ -49,6 +49,8 @@ sidebar:
 | 17:00 | 17:30 | Closing Thoughts from SAML OC |
 
 
+**Please note that due to unforeseen circumstances the keynote by Heiko Koziolek had to be cancelled**
+
 <!--
 * **Registration: Central Foyer**
 * Please refer to [Workshops](/program/workshops/) and [Tutorials](/program/tutorials) for details 
