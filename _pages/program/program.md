@@ -34,17 +34,16 @@ sidebar:
 
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
-| 09:30 | 09:45 | Welcome and Intro from the SAML OC |
-| 09:45 | 11:00 | Keynote by Heiko Koziolek on [**Software Architecture Challenges for LLM-based Control Code Generation**](https://sa-ml.github.io/saml2024/program/keynotes/) |
-| 11:00 | 11:30 | Coffee Break |                 |
-| 11:30 | 11:55 | Session 1: Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines** |
-| 11:55 | 12:20 | Session 1: Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines** |
-| 12:20 | 12:40 |Session 1: Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: **Architecting Machine Learning Systems: Which Parts are the Architect’s Pain?** |
-| 12:40 | 13:00 | Session 1: Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: **Using Quality Attribute Scenarios for ML Model Test Case Generation** |
+| 10:15 | 10:30 | Welcome and Intro from the SAML OC |
+| 10:30 | 10:55 | Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines** |  
+| 11:00 | 11:30 | Coffee Break |    
+| 11:30 | 11:50 | Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: **Architecting Machine Learning Systems: Which Parts are the Architect’s Pain?** | 
+| 11:50 | 12:10 | Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: **Using Quality Attribute Scenarios for ML Model Test Case Generation** |
+| 12:10 | 12:35 | Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines** |
+| 12:35 | 13:00 | Jasmin Jahic and Ashkan Sami: **State of Practice: LLMs in Software Engineering and Software Architecture** |
 | 13:00 | 14:00 | Lunch |
-| 14:00 | 14:25 |  Jasmin Jahic and Ashkan Sami: **State of Practice: LLMs in Software Engineering and Software Architecture** |
-| 14:25 | 14:55 | Invited Talk: Ipek Ozkaya on **Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning)** |
-| 14:55 | 15:30 | Most pressing challenges in SA4ML and ML4SA and research ideas to start addressing them |
+| 14:00 | 14:30 | Invited Talk: Ipek Ozkaya on **Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning)** |
+| 14:30 | 15:30 | Most pressing challenges in SA4ML and ML4SA and research ideas to start addressing them |
 | 15:30 | 16:00 | Coffee Break |
 | 16:00 | 17:00 | Industry Academia Panel Discussion |
 | 17:00 | 17:30 | Closing Thoughts from SAML OC |
