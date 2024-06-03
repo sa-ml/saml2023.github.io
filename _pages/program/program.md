@@ -51,6 +51,7 @@ sidebar:
 
 **Please note that due to unforeseen circumstances the keynote by Heiko Koziolek had to be cancelled**
 
+<!-- This is a test>
 <!--
 * **Registration: Central Foyer**
 * Please refer to [Workshops](/program/workshops/) and [Tutorials](/program/tutorials) for details 
